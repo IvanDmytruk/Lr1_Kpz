@@ -1,0 +1,8 @@
+﻿public class Coefficients
+{
+    double GenreWeight = 0.40;
+    double CriterionWeight = 0.30;
+    double TextWeight = 0.15;
+    double RuleWeight = 0.10;
+    double StatusWeight = 0.05;
+}

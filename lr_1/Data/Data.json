@@ -1,0 +1,350 @@
+{
+  "Animes": [
+    {
+      "AnimeName": "Youjo Senki",
+      "Description": "A military fantasy anime about a girl reincarnated into another world who becomes a powerful mage and military officer.",
+      "ReleaseDate": "2017-01-06",
+      "TargetAudience": "Seinen",
+      "Genres": [
+        {
+          "Genre": "Isekai",
+          "Rating": 9
+        },
+        {
+          "Genre": "Fantasy",
+          "Rating": 8
+        },
+        {
+          "Genre": "Action",
+          "Rating": 8
+        },
+        {
+          "Genre": "Military",
+          "Rating": 10
+        },
+        {
+          "Genre": "School",
+          "Rating": 2
+        }
+      ],
+      "Criteria": [
+        {
+          "Criterion": "PlotComplexity",
+          "Rating": 8
+        },
+        {
+          "Criterion": "CharacterDevelopment",
+          "Rating": 7
+        },
+        {
+          "Criterion": "ActionLevel",
+          "Rating": 9
+        },
+        {
+          "Criterion": "ComedyLevel",
+          "Rating": 2
+        },
+        {
+          "Criterion": "RomanceLevel",
+          "Rating": 1
+        },
+        {
+          "Criterion": "DarknessLevel",
+          "Rating": 8
+        },
+        {
+          "Criterion": "ViolenceLevel",
+          "Rating": 8
+        },
+        {
+          "Criterion": "Pacing",
+          "Rating": 7
+        }
+      ],
+      "Status": "Finished",
+      "Sources": [
+        {
+          "Type": "LightNovel",
+          "Status": "Finished"
+        }
+      ]
+    },
+    {
+      "AnimeName": "Attack on Titan",
+      "Description": "Humanity fights for survival against giant creatures while uncovering the secrets of their world.",
+      "ReleaseDate": "2013-04-07",
+      "TargetAudience": "Shounen",
+      "Genres": [
+        {
+          "Genre": "Action",
+          "Rating": 10
+        },
+        {
+          "Genre": "Fantasy",
+          "Rating": 7
+        },
+        {
+          "Genre": "Dark_Fantasy",
+          "Rating": 10
+        },
+        {
+          "Genre": "Military",
+          "Rating": 9
+        },
+        {
+          "Genre": "Drama",
+          "Rating": 9
+        }
+      ],
+      "Criteria": [
+        {
+          "Criterion": "PlotComplexity",
+          "Rating": 10
+        },
+        {
+          "Criterion": "CharacterDevelopment",
+          "Rating": 10
+        },
+        {
+          "Criterion": "ActionLevel",
+          "Rating": 10
+        },
+        {
+          "Criterion": "ComedyLevel",
+          "Rating": 2
+        },
+        {
+          "Criterion": "RomanceLevel",
+          "Rating": 3
+        },
+        {
+          "Criterion": "DarknessLevel",
+          "Rating": 10
+        },
+        {
+          "Criterion": "ViolenceLevel",
+          "Rating": 10
+        },
+        {
+          "Criterion": "Pacing",
+          "Rating": 8
+        }
+      ],
+      "Status": "Finished",
+      "Sources": [
+        {
+          "Type": "Manga",
+          "Status": "Finished"
+        }
+      ]
+    },
+    {
+      "AnimeName": "KonoSuba",
+      "Description": "A comedy fantasy adventure about a boy who is transported to another world and must survive with an unusual group of companions.",
+      "ReleaseDate": "2016-01-14",
+      "TargetAudience": "Shounen",
+      "Genres": [
+        {
+          "Genre": "Isekai",
+          "Rating": 10
+        },
+        {
+          "Genre": "Fantasy",
+          "Rating": 9
+        },
+        {
+          "Genre": "Comedy",
+          "Rating": 10
+        },
+        {
+          "Genre": "Adventure",
+          "Rating": 8
+        },
+        {
+          "Genre": "Action",
+          "Rating": 5
+        }
+      ],
+      "Criteria": [
+        {
+          "Criterion": "PlotComplexity",
+          "Rating": 4
+        },
+        {
+          "Criterion": "CharacterDevelopment",
+          "Rating": 6
+        },
+        {
+          "Criterion": "ActionLevel",
+          "Rating": 5
+        },
+        {
+          "Criterion": "ComedyLevel",
+          "Rating": 10
+        },
+        {
+          "Criterion": "RomanceLevel",
+          "Rating": 5
+        },
+        {
+          "Criterion": "DarknessLevel",
+          "Rating": 2
+        },
+        {
+          "Criterion": "ViolenceLevel",
+          "Rating": 4
+        },
+        {
+          "Criterion": "Pacing",
+          "Rating": 8
+        }
+      ],
+      "Status": "Finished",
+      "Sources": [
+        {
+          "Type": "LightNovel",
+          "Status": "Finished"
+        }
+      ]
+    },
+    {
+      "AnimeName": "Solo Leveling",
+      "Description": "A fantasy action story about a weak hunter who gains a mysterious power and becomes increasingly stronger.",
+      "ReleaseDate": "2024-01-07",
+      "TargetAudience": "Shounen",
+      "Genres": [
+        {
+          "Genre": "Action",
+          "Rating": 10
+        },
+        {
+          "Genre": "Fantasy",
+          "Rating": 9
+        },
+        {
+          "Genre": "Adventure",
+          "Rating": 8
+        },
+        {
+          "Genre": "Supernatural",
+          "Rating": 7
+        }
+      ],
+      "Criteria": [
+        {
+          "Criterion": "PlotComplexity",
+          "Rating": 6
+        },
+        {
+          "Criterion": "CharacterDevelopment",
+          "Rating": 6
+        },
+        {
+          "Criterion": "ActionLevel",
+          "Rating": 10
+        },
+        {
+          "Criterion": "ComedyLevel",
+          "Rating": 2
+        },
+        {
+          "Criterion": "RomanceLevel",
+          "Rating": 2
+        },
+        {
+          "Criterion": "DarknessLevel",
+          "Rating": 7
+        },
+        {
+          "Criterion": "ViolenceLevel",
+          "Rating": 8
+        },
+        {
+          "Criterion": "Pacing",
+          "Rating": 9
+        }
+      ],
+      "Status": "Ongoing",
+      "Sources": [
+        {
+          "Type": "WebNovel",
+          "Status": "Finished"
+        },
+        {
+          "Type": "Manhwa",
+          "Status": "Finished"
+        }
+      ]
+    },
+    {
+      "AnimeName": "Re:Zero",
+      "Description": "A dark fantasy story about a young man transported to another world who repeatedly faces death and tries to change the future.",
+      "ReleaseDate": "2016-04-04",
+      "TargetAudience": "Seinen",
+      "Genres": [
+        {
+          "Genre": "Isekai",
+          "Rating": 10
+        },
+        {
+          "Genre": "Fantasy",
+          "Rating": 9
+        },
+        {
+          "Genre": "Psychological",
+          "Rating": 9
+        },
+        {
+          "Genre": "Drama",
+          "Rating": 9
+        },
+        {
+          "Genre": "Romance",
+          "Rating": 7
+        }
+      ],
+      "Criteria": [
+        {
+          "Criterion": "PlotComplexity",
+          "Rating": 9
+        },
+        {
+          "Criterion": "CharacterDevelopment",
+          "Rating": 10
+        },
+        {
+          "Criterion": "ActionLevel",
+          "Rating": 7
+        },
+        {
+          "Criterion": "ComedyLevel",
+          "Rating": 4
+        },
+        {
+          "Criterion": "RomanceLevel",
+          "Rating": 8
+        },
+        {
+          "Criterion": "DarknessLevel",
+          "Rating": 10
+        },
+        {
+          "Criterion": "ViolenceLevel",
+          "Rating": 8
+        },
+        {
+          "Criterion": "Pacing",
+          "Rating": 6
+        }
+      ],
+      "Status": "Ongoing",
+      "Sources": [
+        {
+          "Type": "LightNovel",
+          "Status": "Ongoing"
+        }
+      ]
+    }
+  ],
+  "Users": []
+}

@@ -1,0 +1,8 @@
+﻿public class Coefficients
+{
+    public double GenreWeight { get; } = 0.40;
+    public double CriterionWeight { get; } = 0.30;
+    public double TextWeight { get; } = 0.15;
+    public double RuleWeight { get; } = 0.10;
+    public double StatusWeight { get; } = 0.05;
+}
